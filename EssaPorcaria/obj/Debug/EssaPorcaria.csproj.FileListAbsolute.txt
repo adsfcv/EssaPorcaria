@@ -3,3 +3,8 @@ C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\bin\EssaPorcaria.pdb
 C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.csprojResolveAssemblyReference.cache
 C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.dll
 C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.pdb
+D:\Github\EssaPorcaria\EssaPorcaria\bin\EssaPorcaria.dll
+D:\Github\EssaPorcaria\EssaPorcaria\bin\EssaPorcaria.pdb
+D:\Github\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.csprojResolveAssemblyReference.cache
+D:\Github\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.dll
+D:\Github\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.pdb
