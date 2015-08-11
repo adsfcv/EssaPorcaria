@@ -15,8 +15,8 @@ namespace EssaPorcaria
         protected void Page_Load(object sender, EventArgs e)
         {
              SqlConnection conexao = new SqlConnection(""
-                 +"DaTa Source=(LocalDb\\v11.0;AttachDbFilename="
-                 +"D:\\Github\\EssaPorcaria\\EssaPorcaria\\App_Data\\northwind.mdf;Integrated Security=True");
+                    +"Data Source=(LocalDB)\\v11.0;AttachDbFilename="
+                    +"D:\\Github\\EssaPorcaria\\EssaPorcaria\\App_Data\\northwind.mdf;Integrated Security=True");
             /*   
                SqlConnection conexao = new SqlConnection(""
                    +"server=MARCELL\\MARCELL;"
@@ -25,7 +25,7 @@ namespace EssaPorcaria
 
             */
                //Criando o comando sql para executar no banco informado na conexão
-               SqlCommand comandoSql = new SqlCommand("SELECT * FROM COSTUMERS", conexao);
+               SqlCommand comandoSql = new SqlCommand("SELECT * FROM CUSTOMERS", conexao);
 
                //Criando o SqlDataAdapter para executar a query e preencher o dataset
                SqlDataAdapter adaptador = new SqlDataAdapter(comandoSql);
