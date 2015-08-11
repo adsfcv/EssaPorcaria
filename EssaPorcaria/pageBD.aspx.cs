@@ -16,7 +16,7 @@ namespace EssaPorcaria
         {
              SqlConnection conexao = new SqlConnection(""
                  +"DaTa Source=(LocalDb\\v11.0;AttachDbFilename="
-                 +"D:\\Github\\EssaPorcaria\\EssaPorcaria\\BD\\northwind.mdf;Integrated Security=True");
+                 +"D:\\Github\\EssaPorcaria\\EssaPorcaria\\App_Data\\northwind.mdf;Integrated Security=True");
             /*   
                SqlConnection conexao = new SqlConnection(""
                    +"server=MARCELL\\MARCELL;"
@@ -25,7 +25,7 @@ namespace EssaPorcaria
 
             */
                //Criando o comando sql para executar no banco informado na conexão
-               SqlCommand comandoSql = new SqlCommand("SELECT * FROM CADASTROS", conexao);
+               SqlCommand comandoSql = new SqlCommand("SELECT * FROM COSTUMERS", conexao);
 
                //Criando o SqlDataAdapter para executar a query e preencher o dataset
                SqlDataAdapter adaptador = new SqlDataAdapter(comandoSql);
