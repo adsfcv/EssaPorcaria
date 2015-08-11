@@ -1,0 +1,5 @@
+C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\bin\EssaPorcaria.dll
+C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\bin\EssaPorcaria.pdb
+C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.csprojResolveAssemblyReference.cache
+C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.dll
+C:\Users\fcv\Desktop\EssaPorcaria\EssaPorcaria\obj\Debug\EssaPorcaria.pdb
